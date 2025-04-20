@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pantheon of Congestion Control
 The Pantheon contains wrappers for many popular practical and research
 congestion control schemes. The Pantheon enables them to run on a common
@@ -166,6 +165,3 @@ steps:
 5. Add your scheme to `SCHEMES` in `.travis.yml` for continuous integration testing.
 
 6. Send us a pull request and that's it, you're in the Pantheon!
-=======
-# pantheon-pa3
->>>>>>> 139cda2919e4aec80fc42b523d4918f2e70d76fd
